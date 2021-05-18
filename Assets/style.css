@@ -13,8 +13,8 @@ body {
 
 footer {
     background-color: #2160c4;
-    margin-left: 35px;
-    margin-right: 35px;
     margin-top: 35px;
     text-align: center;
+    bottom: 0;
+    position: 0;
 };
